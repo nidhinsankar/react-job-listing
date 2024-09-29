@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "company": "PhotoSnap",
+      "featured": true,
+      "image": "/images/phone.svg",
+      "position": "Frontend Developer",
+      "contract": "Part Time",
+      "posted-date": "3days ago",
+      "location": "USA",
+      "languages": ["javascript", "typescript"],
+      "tools": ["sass", "tailwindCSS"],
+      "new": true
+    },
+    {
+      "id": "2",
+      "company": "Manage",
+      "featured": false,
+      "image": "/images/manage.svg",
+      "position": "Fullstack Developer",
+      "contract": "Full Time",
+      "posted-date": "1 week ago",
+      "location": "UK",
+      "languages": ["javascript", "ruby"],
+      "tools": ["react", "bootstrap"],
+      "new": false
+    },
+    {
+      "id": "3",
+      "company": "Loop Studios",
+      "featured": true,
+      "image": "/images/loop-studios.svg",
+      "position": "Backend Developer",
+      "contract": "Freelance",
+      "posted-date": "2 weeks ago",
+      "location": "Canada",
+      "languages": ["python", "go"],
+      "tools": ["docker", "kubernetes"],
+      "new": true
+    },
+    {
+      "id": "4",
+      "company": "CrowdCube",
+      "featured": false,
+      "image": "/images/crowdcube.svg",
+      "position": "UI/UX Designer",
+      "contract": "Part Time",
+      "posted-date": "5 days ago",
+      "location": "Germany",
+      "languages": [],
+      "tools": ["figma", "adobeXD"],
+      "new": false
+    },
+    {
+      "id": "5",
+      "company": "Techie",
+      "featured": true,
+      "image": "/images/techie.svg",
+      "position": "DevOps Engineer",
+      "contract": "Full Time",
+      "posted-date": "2 days ago",
+      "location": "Remote",
+      "languages": ["bash", "python"],
+      "tools": ["ansible", "terraform"],
+      "new": true
+    }
+  ]
+}
